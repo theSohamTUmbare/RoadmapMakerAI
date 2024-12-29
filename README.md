@@ -1,4 +1,4 @@
-This project is made by me and Soham Bit
+This project is made by me and Soham Bit (https://github.com/bit-soham)
 # Roadmap Generator AI: Generates a Roadmap according to the student input data
 It is the rag based ai model which leverages the misteral-7b model to generate the roadmap for the student information provided. 
 
